@@ -1,4 +1,4 @@
-<img src="https://b.catgirlsare.sexy/Cx4rhO8h.png" min-width="400px" max-width="400px" width="400px" align="center" alt="título com o nick do Kledyson Goes">
+<img src="https://b.catgirlsare.sexy/Vad_Iuw5.png" min-width="400px" max-width="400px" width="400px" align="left" alt="título com o nick do Kledyson Goes">
 <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc&ab_channel=ShortClips">Hello there!</a>
 
 <!--
