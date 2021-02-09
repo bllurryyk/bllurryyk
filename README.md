@@ -1,4 +1,4 @@
-<img src="https://b.catgirlsare.sexy/Cx4rhO8h.png" min-width="400px" max-width="400px" width="400px" align="right" alt="título com o nick do Kledyson Goes">
+<img src="https://b.catgirlsare.sexy/Cx4rhO8h.png" min-width="400px" max-width="400px" width="400px" align="center" alt="título com o nick do Kledyson Goes">
 
 <!--
 **bllurryyk/bllurryyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
