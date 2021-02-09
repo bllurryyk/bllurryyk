@@ -5,3 +5,13 @@
 
 ## :cherry_blossom: Skills: <strong>Python, HTML, CSS, JavaScript</strong>
 ## :seedling: Atualmente Estudando: <strong>C#, Angular, TypeScript</strong>
+<br>
+
+
+
+<!-- # Social
+<a href="#"><img src=""></a>
+<a href="#"><img src=""></a>
+<a href="#"><img src=""></a>
+<a href="#"><img src=""></a> -->
+
