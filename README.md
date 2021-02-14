@@ -3,7 +3,7 @@
 # Hello There! <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc&ab_channel=ShortClips">~~General Kenobi~~</a>
 ### Meu nome é Kledyson, tenho 20 anos, estou cursando ciência da computação e atualmente trabalho como analista de implantação. Também estou iniciando a atuação como desenvolvedor de Front-End.
 
-## :cherry_blossom: Skills: <strong>Python, HTML, CSS, JavaScript</strong>
+## :cherry_blossom: Principais Skills: <strong>Python, HTML, CSS, JavaScript</strong>
 ## :seedling: Atualmente Estudando: <strong>C#, Angular, TypeScript</strong>
 <br>
 
