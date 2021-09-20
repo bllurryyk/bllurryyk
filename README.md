@@ -6,10 +6,22 @@
 ## :cherry_blossom: Principais Skills: <strong>Python, HTML, CSS, JavaScript</strong>
 <div style="float: left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="10%" />
+
+	
 </div>
   
 ## :seedling: Atualmente Estudando: <strong>Java e Angular</strong>
+<div style="float: left">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="10%" />
+</div>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical)
