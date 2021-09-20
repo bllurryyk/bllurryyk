@@ -7,6 +7,7 @@
 ## :seedling: Atualmente Estudando: <strong>Java e Angular</strong>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical)
 
 
 <!-- # Social
