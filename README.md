@@ -4,6 +4,8 @@
 ### Meu nome é Kledyson, tenho 21 anos, estou cursando ciência da computação e atualmente trabalho como analista de implantação. Também estou iniciando a atuação como desenvolvedor de Front-End.
 
 ## :cherry_blossom: Principais Skills: <strong>Python, HTML, CSS, JavaScript</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
 ## :seedling: Atualmente Estudando: <strong>Java e Angular</strong>
 <br>
 
@@ -16,6 +18,4 @@
 <a href="#"><img src=""></a>
 <a href="#"><img src=""></a> -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-<i class="devicon-html5-plain-wordmark colored"></i>
 
