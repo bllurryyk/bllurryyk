@@ -23,10 +23,8 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div style="float: left">
-	
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact)
 
 <!-- # Social
 <a href="#"><img src=""></a>
