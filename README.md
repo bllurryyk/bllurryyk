@@ -9,7 +9,7 @@
 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"/></a>	
 </div>	
 
-# <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc&ab_channel=ShortClips">~~Hello There!~~</a>
+# <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc&ab_channel=ShortClips">Hello There!</a>
 ### Meu nome é Kledyson, tenho 21 anos, estou cursando ciência da computação e atualmente trabalho como analista de implantação. Também estou iniciando a atuação como desenvolvedor de Front-End.
 
 <div>
