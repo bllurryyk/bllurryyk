@@ -23,8 +23,9 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact)
-
+<div width="40%">
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact)
+</div>
 <!-- # Social
 <a href="#"><img src=""></a>
 <a href="#"><img src=""></a>
