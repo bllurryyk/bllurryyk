@@ -34,9 +34,3 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="10%" />
 </div>
-
-##
-												      
-
-
-
