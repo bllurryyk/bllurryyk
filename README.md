@@ -13,6 +13,7 @@
 ### Meu nome é Kledyson, tenho 21 anos, estou cursando ciência da computação e atualmente trabalho como analista de implantação. Além disso sou desenvolvedor Front-End.
 
 <div>
+	<a href="https://github.com/bllurryyk"></a>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical"/>
 	<img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact"
 </div>
