@@ -17,7 +17,8 @@
 <div>
 	<a href="https://github.com/bllurryyk">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical"/>
-	<img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact&theme=radical"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact&theme=radical"/>
+	<img height="333em" src="http://github-readme-streak-stats.herokuapp.com?user=bllurryyk&theme=radical&fire=DD2727"/>
 	</a>															
 </div>
 
