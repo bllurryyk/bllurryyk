@@ -13,25 +13,30 @@
 ### Meu nome é Kledyson, tenho 21 anos, estou cursando ciência da computação e atualmente trabalho como analista de implantação. Além disso sou desenvolvedor Front-End.
 
 <div>
-	<a href="https://github.com/bllurryyk"></a>
+	<a href="https://github.com/bllurryyk">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical"/>
 	<img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact"
+	</a>															
 </div>
 
 ## :cherry_blossom: Principais Skills:
 <div style="float: left">
+	<a href="https://github.com/bllurryyk">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="10%" />	
+	</a>														      	
 </div>
   
 ## :seedling: Atualmente Estudando:
 <div style="float: left">
+	<a href="https://github.com/bllurryyk">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="10%" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="10%" />
+	</a>														      
 </div>
