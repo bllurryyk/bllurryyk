@@ -16,10 +16,10 @@
 
 <div style="float: left">
 	<a href="https://github.com/bllurryyk">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact&theme=radical"/>
-	<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=bllurryyk&theme=radical&fire=DD2727"/>
-	<img height="180em" src="https://b.catgirlsare.sexy/ma7TcRR2m5ct.gif"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact&theme=radical"/>
+	<img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=bllurryyk&theme=radical&fire=DD2727"/>
+	<img height="160em" src="https://b.catgirlsare.sexy/ma7TcRR2m5ct.gif"/>
 	</a>															
 </div>
 
