@@ -14,7 +14,7 @@
 # <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc&ab_channel=ShortClips">Hello There!</a>
 ### Meu nome é Kledyson, tenho 21 anos, estou cursando ciência da computação e atualmente trabalho como analista de implantação. Além disso sou desenvolvedor Front-End.
 
-<div>
+<div style="float: left">
 	<a href="https://github.com/bllurryyk">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bllurryyk&show_icons=true&theme=radical"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllurryyk&layout=compact&theme=radical"/>
