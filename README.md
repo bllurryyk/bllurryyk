@@ -12,7 +12,7 @@
 </div>	
 
 # <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc&ab_channel=ShortClips">Hello There!</a>
-### Meu nome é Kledyson, tenho 21 anos, estou cursando ciência da computação e atualmente trabalho como analista de implantação. Além disso sou desenvolvedor Front-End.
+### Meu nome é Kledyson, tenho 22 anos, estou cursando ciência da computação e atualmente trabalho como analista de requisitos. Além disso sou desenvolvedor Front-End. 
 
 <div style="float: left">
 	<a href="https://github.com/bllurryyk">
@@ -44,3 +44,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="10%" />
 	</a>														      
 </div>
+
+## ✨ Quer saber mais sobre mim?
+<a href="https://bllurryyk.dev/" target="_blank"><img src="https://svgshare.com/i/hWa.svg" width=20% target="_blank"/></a>
