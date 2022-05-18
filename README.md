@@ -2,6 +2,7 @@
 <img src="https://b.catgirlsare.sexy/Vad_Iuw5.png" min-width="400px" max-width="400px" width="400px" align="left" alt="título com o nick do Kledyson Goes"><br/><br/><br/>
 </a>	
 <div>
+	<a href="https://bllurryyk.dev/" target="_blank"><img src="https://svgshare.com/i/hVE.svg" target="_blank"/></a>
 	<a href="https://linkedin.com/in/kledyson-goes-6b1195164" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 	<a href="https://open.spotify.com/user/zedascocadas" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/></a>
 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
@@ -46,4 +47,4 @@
 </div>
 
 ## ✨ Quer saber mais sobre mim?
-<a href="https://bllurryyk.dev/" target="_blank"><img src="https://svgshare.com/i/hWa.svg" width=20% target="_blank"/></a>
+[Acessar Portfólio](http://bllurryyk.dev)
