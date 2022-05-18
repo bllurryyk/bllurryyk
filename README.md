@@ -24,6 +24,7 @@
 	</a>															
 </div>
 
+<!--
 ## :cherry_blossom: Principais Skills:
 <div style="float: left">
 	<a href="https://github.com/bllurryyk">
@@ -45,6 +46,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="10%" />
 	</a>														      
 </div>
+-->
 
 ## ✨ Quer saber mais sobre mim?
 [Acessar Portfólio](http://bllurryyk.dev)
