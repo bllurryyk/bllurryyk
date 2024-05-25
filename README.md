@@ -13,7 +13,7 @@
 </div>	
 
 # <a href="https://youtu.be/rEq1Z0bjdwc?t=10">Hello There!</a>
-### Meu nome é Kledyson, tenho 22 anos, estou cursando ciência da computação e atualmente trabalho como analista de requisitos. Além disso sou desenvolvedor Front-End. 
+### Meu nome é Kledyson, tenho 24 anos, sou bacharel em ciência da computação e atualmente trabalho como Desenvolvedor Full-Stack Pleno na SergipeTec. Além disso, sou engenheiro de machine learning na minha startup.
 
 <div style="float: left">
 	<a href="https://github.com/bllurryyk">
